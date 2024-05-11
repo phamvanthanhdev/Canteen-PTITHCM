@@ -20,6 +20,7 @@ public class CanteenPTIT {
         //new Login().setVisible(true);
         int a = 1;
         System.err.println("abc");
+        System.out.println("ABCDEFD");
     }
     
 }
