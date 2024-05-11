@@ -18,6 +18,7 @@ public class CanteenPTIT {
     public static void main(String[] args) {
         // Hieu và Trưởng
         //new Login().setVisible(true);
+        int a = 1;
     }
     
 }
