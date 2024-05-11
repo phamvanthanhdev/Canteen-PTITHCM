@@ -22,6 +22,7 @@ public class CanteenPTIT {
     
         System.out.println("Trưởng đẹp trai");
         System.err.println("abc");
+        System.out.println("ABCDEFD");
     }
     
 }
