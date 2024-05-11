@@ -21,7 +21,8 @@ import javax.swing.JOptionPane;
  * @author Pham Van Thanh
  */
 public class CartUser extends javax.swing.JPanel {
-
+    
+    // Tên người dùng
     private String username = new ToanCuc().getUsername();
 
     private cartItemsDao cartItemsDAO = new cartItemsDao();
