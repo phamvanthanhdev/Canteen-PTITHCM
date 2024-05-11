@@ -16,6 +16,7 @@ public class CanteenPTIT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // Hieu
         //new Login().setVisible(true);
     }
     
