@@ -22,7 +22,7 @@ import javax.swing.JOptionPane;
  */
 public class CartUser extends javax.swing.JPanel {
     
-    // Tên người dùng và Nguyễn Thái Trưởng
+    // Tên người dùng và Nguyễn Thái Trưởng abc
     private String username = new ToanCuc().getUsername();
 
     private cartItemsDao cartItemsDAO = new cartItemsDao();
