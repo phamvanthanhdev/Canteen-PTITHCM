@@ -19,8 +19,8 @@ public class CanteenPTIT {
         // Hieu và Trưởng
         //new Login().setVisible(true);
         int a = 1;
-
         System.out.println("Trưởng đẹp trai");
+        System.err.println("abc");
     }
     
 }
